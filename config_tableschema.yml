@@ -1,0 +1,110 @@
+Archivistes75/registre_entrees:
+  consolidate: false
+  search_words:
+  - "Registre d'entr\xE9e d'archives"
+CEREMA/schema-arrete-circulation-marchandises:
+  consolidate: false
+  search_words:
+  - "Arr\xEAt\xE9s permanents de circulation pour le transport de marchandises"
+MTES-MCT/acceslibre-schema:
+  consolidate: false
+  search_words:
+  - "Sch\xE9ma des donn\xE9es d'accessibilit\xE9 des ERPs"
+NaturalSolutions/schema-arbre:
+  consolidate: false
+  search_words:
+  - Arbres urbains
+arsante/schema-dae:
+  consolidate: false
+  search_words:
+  - DAE
+datakode/schema-pei:
+  consolidate: false
+  search_words:
+  - Point d'Eau Incendie (PEI)
+etalab/schema-decp-dpa:
+  consolidate: false
+  search_words:
+  - "Sp\xE9cification du fichier de d\xE9claration de profil d'acheteur"
+etalab/schema-hautes-remunerations:
+  consolidate: false
+  search_words:
+  - "Hautes r\xE9mun\xE9rations dans la fonction publique"
+etalab/schema-inclusion-numerique:
+  consolidate: false
+  search_words:
+  - "Lieux d\u2019inclusion num\xE9rique"
+etalab/schema-irve:
+  consolidate: true
+  consolidated_dataset_id: '5448d3e0c751df01f85d0572'
+  latest_resource_ids:
+    2.0.2: '8d9398ae-3037-48b2-be19-412c24561fbb'
+  documentation_resource_id: '41b0514d-956d-4e42-80ef-1dcf88cc74e9'
+  exclude_dataset_ids:
+  - '54231d4a88ee38334b5b9e1d'
+  drop_versions:
+  - '1.0.0'
+  - '1.0.1'
+  - '1.0.2'
+  - '1.0.3'
+  - '2.0.0'
+  - '2.0.1'
+  search_words:
+  - "Infrastructures de recharge pour v\xE9hicules \xE9lectriques"
+etalab/schema-lieux-covoiturage:
+  consolidate: false
+  search_words:
+  - Lieux de covoiturage
+etalab/schema-passage-a-niveau:
+  consolidate: false
+  search_words:
+  - "Sch\xE9ma pour les passages \xE0 niveau"
+etalab/schema-sdirve:
+  consolidate: false
+  search_words:
+  - "Sch\xE9ma directeur des infrastructures de recharge pour v\xE9hicules \xE9lectriques\
+    \ et hybrides rechargeables"
+etalab/schema-stationnement:
+  consolidate: false
+  search_words:
+  - Lieux de stationnement
+etalab/schema-stationnement-cyclable:
+  consolidate: false
+  search_words:
+  - Stationnement cyclable
+etalab/schema-vehicules-faibles-emissions-renouvellement-parc:
+  consolidate: false
+  search_words:
+  - "Part des v\xE9hicules \xE0 faibles \xE9missions dans le renouvellement d'un parc"
+openmaraude/schema-stationstaxi:
+  consolidate: false
+  search_words:
+  - Stations de taxi
+scdl/budget:
+  consolidate: false
+  search_words:
+  - "Budget des collectivit\xE9s et \xE9tablissements publics locaux"
+scdl/catalogue:
+  consolidate: false
+  search_words:
+  - "Catalogue simplifi\xE9"
+scdl/deliberations:
+  consolidate: false
+  search_words:
+  - "D\xE9lib\xE9rations"
+scdl/equipements:
+  consolidate: false
+  search_words:
+  - "\xC9quipements"
+scdl/menus-collectifs:
+  consolidate: false
+  search_words:
+  - Menus de la restauration collective
+scdl/plats-menus-collectifs:
+  consolidate: false
+  search_words:
+  - Composition des plats des menus de la restauration collective
+scdl/subventions:
+  consolidate: false
+  search_words:
+  - Subventions
