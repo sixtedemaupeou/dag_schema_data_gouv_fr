@@ -1,0 +1,5 @@
+resource_found_by,error_type,total_nb_resources,is_valid_v_0.1.1,is_valid_v_0.1.2,is_valid_one_version,is_schema_version_to_update,is_schema_to_add,is_schema_to_drop
+1 - schema request,no-error,4,0,0,0,0,0,4
+1 - schema request,wrong-file-format,2,0,0,0,0,0,2
+3 - search request,no-error,3,0,0,0,0,0,0
+3 - search request,wrong-file-format,67,0,0,0,0,0,0

@@ -1,0 +1,6 @@
+resource_found_by,error_type,total_nb_resources,is_valid_v_0.1.0,is_valid_v_0.1.1,is_valid_one_version,is_downloaded,is_empty,is_schema_version_to_update,is_schema_to_add,is_schema_to_drop,is_schema_version_updated,is_schema_added,is_schema_dropped
+1 - schema request,no-error,2,1,1,1,1,0,0,0,1,0,0,1
+1 - schema request,wrong-file-format,2,0,0,0,0,0,0,0,2,0,0,2
+3 - search request,no-error,2096,0,0,0,0,0,0,0,0,0,0,0
+3 - search request,orphan-dataset,4,0,0,0,0,0,0,0,0,0,0,0
+3 - search request,wrong-file-format,7548,0,0,0,0,0,0,0,0,0,0,0

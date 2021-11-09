@@ -88,6 +88,14 @@ etalab/schema-irve:
   - "Infrastructures de recharge pour v\xE9hicules \xE9lectriques"
 ```
 
+## Variables d'environnement
+
+Les variables d'environnement suivantes doivent être fixées afin que les scripts fonctionnent :
+- `DATAGOUV_API_KEY` : Clé d'API data.gouv.fr d'un utilisateur ayant le statut d'admin chez l'organisation Etalab.
+- `SCHEMA_BOT_MAIL_SMTP` : Host du serveur SMTP pour l'envoi d'e-mails aux producteurs.
+- `SCHEMA_BOT_MAIL_USER` : User (adresse e-mail) pour l'envoi d'e-mails aux producteurs.
+- `SCHEMA_BOT_MAIL_PASSWORD` : Password (liée au user) pour l'envoi d'e-mails aux producteurs.
+
 ## TODO List/Pistes d'amélioration
 
 - Rendre le script `consolidation_jsonschema.ipynb` utilisable dans le cas général

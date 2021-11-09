@@ -2,3 +2,4 @@ jupyterlab
 pandas
 PyYAML
 emails
+requests
