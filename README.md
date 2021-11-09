@@ -16,6 +16,8 @@ L'objectif de ces scripts de consolidation est d'aller chercher sur data.gouv.fr
 - `requirements.txt` : liste des librairies Python nécessaires
 - `README.md` : présent fichier
 
+Un dossier `data/` (absent de ce repository) est automatiquement crée au lancement du script pour stocker l'ensemble des ressources téléchargées.
+
 ## Fonctionnement du script
 
 Les deux scripts fonctionnent selon les étapes suivantes :
